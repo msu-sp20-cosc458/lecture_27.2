@@ -1,0 +1,3 @@
+This is member1 text after git pull --rebase command
+
+
